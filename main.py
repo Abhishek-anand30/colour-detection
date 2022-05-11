@@ -74,5 +74,4 @@ while True:
     if cv2.waitKey(20) & 0xFF == 27:
         break
 
-print("DONE")
 cv2.destroyAllWindows()
